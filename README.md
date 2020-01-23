@@ -5,3 +5,4 @@ Then we added MPI to it in hello_mpi.py.
 Then we ran flops.f from pelican HPC on our RPI to see how it worked. 
 mypi_serial.py and mypi_mpi is our translation of flops.f quadrature section from fortran to python. 
 Next we will try to make our own mandelbrot fractal: mandel_serial.py and mandel_mpi.py!
+Please see my blog for more info, http://shadowfaxrant.blogspot.com
