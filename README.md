@@ -1,5 +1,5 @@
 # MPI-RPI
-Building and programming a Linux Cluster made up of Raspberry PIs! 
+My Computing Science Independent study class is building and programming a Linux Cluster made up of Raspberry PIs! 
 We started with hello_serial.py just to get used to python on RPIs. 
 Then we added MPI to it in hello_mpi.py. 
 Then we ran flops.f from pelican HPC on our RPI to see how it worked. 
